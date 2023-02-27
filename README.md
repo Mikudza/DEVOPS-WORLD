@@ -152,7 +152,7 @@ Follow the Roadmap:
 
 - [Web Server and Application Server | Explained - FREE](https://youtu.be/thJSev60yfg)
 
-- [The NGINX Crash Course](https://youtu.be/7VAI73roXaY)
+- [v] [The NGINX Crash Course](https://youtu.be/7VAI73roXaY)
 
 - [NGINX Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/course/nginx-fundamentals/)
 
