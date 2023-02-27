@@ -150,7 +150,7 @@ Follow the Roadmap:
 
 ## webserver
 
-- [Web Server and Application Server | Explained - FREE](https://youtu.be/thJSev60yfg)
+- ✅ [Web Server and Application Server | Explained - FREE](https://youtu.be/thJSev60yfg)
 
 - ✅ [The NGINX Crash Course](https://youtu.be/7VAI73roXaY)
 
