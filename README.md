@@ -316,6 +316,7 @@ Follow the Roadmap:
 
 
 ## Microsoft Azure:
+- [Microsoft Azure Fundamentals (AZ-900) Full Course](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
 
 - [Azure Course | Microsoft Azure Full Course 2023 | Azure Tutorial For Beginners | Intellipaat -FREE](https://youtu.be/hG-wgtKJ9Es)
 
